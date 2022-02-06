@@ -1,0 +1,14 @@
+* {
+  background-color: blanchedalmond;
+}
+
+.heading {
+  text-align: center;
+  font-size: 46px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.recipe-item {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+}
